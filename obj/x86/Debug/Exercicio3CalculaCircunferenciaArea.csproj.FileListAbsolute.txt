@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio3CalculaCircunferenciaArea/obj/x86/Debug/Exercicio3CalculaCircunferenciaArea.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio3CalculaCircunferenciaArea/bin/Debug/Exercicio3CalculaCircunferenciaArea.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio3CalculaCircunferenciaArea/bin/Debug/Exercicio3CalculaCircunferenciaArea.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio3CalculaCircunferenciaArea/obj/x86/Debug/Exercicio3CalculaCircunferenciaArea.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercicio3CalculaCircunferenciaArea/obj/x86/Debug/Exercicio3CalculaCircunferenciaArea.pdb
